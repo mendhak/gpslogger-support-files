@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=com.mendhak.gpsloggersupportfiles -DartifactId=activation -Dversion=0.0.1 -Dfile=jars/activation.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=./repository  -DcreateChecksum=true
