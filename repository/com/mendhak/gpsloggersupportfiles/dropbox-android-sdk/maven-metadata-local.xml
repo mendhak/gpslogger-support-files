@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.mendhak.gpsloggersupportfiles</groupId>
-  <artifactId>activation</artifactId>
-  <version>0.0.2</version>
+  <artifactId>dropbox-android-sdk</artifactId>
+  <version>1.6.3</version>
   <versioning>
     <versions>
-      <version>0.0.2</version>
+      <version>1.6.3</version>
     </versions>
-    <lastUpdated>20160130120526</lastUpdated>
+    <lastUpdated>20160130120527</lastUpdated>
   </versioning>
 </metadata>

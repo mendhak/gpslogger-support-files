@@ -3,7 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mendhak.gpsloggersupportfiles</groupId>
-  <artifactId>activation</artifactId>
-  <version>0.0.6</version>
+  <artifactId>windows-live-sdk</artifactId>
+  <version>0.0.2</version>
+  <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
