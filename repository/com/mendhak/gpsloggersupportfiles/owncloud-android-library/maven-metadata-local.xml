@@ -2,12 +2,11 @@
 <metadata>
   <groupId>com.mendhak.gpsloggersupportfiles</groupId>
   <artifactId>owncloud-android-library</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <versioning>
     <versions>
-      <version>0.0.2</version>
       <version>0.0.3</version>
     </versions>
-    <lastUpdated>20160130121643</lastUpdated>
+    <lastUpdated>20160130125024</lastUpdated>
   </versioning>
 </metadata>
